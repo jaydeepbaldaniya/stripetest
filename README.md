@@ -15,5 +15,5 @@ Add below stripe keys in .env file and add value :
 - STRIPE_KEY
 - STRIPE_SECRET
 
-Now you can check stripe implementation.
+Now login and you can check stripe implementation.
 
